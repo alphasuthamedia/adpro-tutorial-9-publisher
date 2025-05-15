@@ -27,6 +27,9 @@
   "associatedIndex": 0
 }]]></component>
   <component name="ProjectId" id="2x8vZ47yeHDIWCuYS0DAFJmB4ze" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -39,6 +42,10 @@
     "RunOnceActivity.rust.reset.selective.auto.import": "true",
     "git-widget-placeholder": "master",
     "last_opened_file_path": "C:/Users/alpha/Desktop/adpro/tutorial 9/publisher",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "org.rust.cargo.project.model.PROJECT_DISCOVERY": "true",
     "org.rust.cargo.project.model.impl.CargoExternalSystemProjectAware.subscribe.first.balloon": "",
@@ -56,7 +63,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1747332566472</updated>
-      <workItem from="1747332567552" duration="220000" />
+      <workItem from="1747332567552" duration="596000" />
     </task>
     <servers />
   </component>
