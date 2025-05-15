@@ -12,3 +12,6 @@
 ![image](https://github.com/user-attachments/assets/2490e783-072d-49af-bede-0c58bfe155f8)
 
 
+Pada grafik pemantauan RabbitMQ, terlihat ada dua lonjakan berwarna ungu dan tidak ada lonjakan berwarna kuning. Lonjakan ungu menunjukkan bahwa ada dua pesan yang berhasil dikirim ke konsumen dan sudah diterima (acknowledged). Artinya, subscriber sudah menerima dan memproses dua pesan tersebut.
+
+Sementara itu, tidak adanya lonjakan kuning berarti kemungkinan besar tidak ada pesan baru yang dikirim ke antrean (queue) selama waktu yang ditampilkan di grafik, atau jumlahnya sangat sedikit sehingga tidak terlihat.
