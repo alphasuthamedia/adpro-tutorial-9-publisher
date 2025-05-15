@@ -4,3 +4,5 @@
    program, what does it mean? sebetulnya ini pertanyaan yang sangat trivia. ya karena kita ingin membuka sebuah jalan komunikasi atua bisa dibilang juga dengan protokol. sebetulnya cara berpikirnya katakan kita tiadak tahu alamatnya akan diset dimana, nah saat di subscriber barulah kita menyamaakan dengan alamat yang kita set secara random di publisher. hanya saja karena meneur tutorial kita mengerjkaannya secara terbalik, maksudnya mengerjakan subscirber dulu baru publisher, maka kita samakan saja alamat di publisher kita, yang amana kita bermaksud agar publisher dan subsciber sama sama lempar lempaaran data di jalan yang sama.
 
 ![image](https://github.com/user-attachments/assets/c077376c-b8b3-47b8-935a-56588960be88)
+
+![image](https://github.com/user-attachments/assets/adbfa7e7-191f-4431-b6dc-0d37626f7029)
